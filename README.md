@@ -1,3 +1,5 @@
-# Proyecto-final-postgrado-
+# Proyecto final de postgrado
 
-Este es mi proyecto final de postgrado en ciencia de datos. Los datos analizados son datos del sueño de un smartwatch Garmin Fenix 6X Pro. La finalidad del proyecto más que hacer un estudio real, es poner a prueba las herramientas de análisis estadístico, manipulación/transormación de los datos y por último su visualización en lenguaje R.
+Mi proyecto en ciencia de datos es un estudio sobre datos del sueño. Los datos analizados son  de un smartwatch Garmin Fenix 6X Pro. 
+
+La finalidad del proyecto más que hacer una investigación real, es poner a prueba las herramientas de análisis estadístico, manipulación/transormación de datos y por último visualización en lenguaje R.
